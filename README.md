@@ -1,4 +1,4 @@
-# 👨‍💻 José Cruz Bonilla | Developer Portfolio
+# 👨‍💻 José Cruz Bonilla | Developer Portafolio
 
 **Fullstack .NET Developer | Backend & AWS Cloud**
 
